@@ -24,7 +24,7 @@ Ensure you have the following installed before running the code:
 
    ```bash
    # Clone the repository
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/sgunnell/Table_OCR.git
    cd your_repository
 
    # Install dependencies
